@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/admin-de-pacientes.git/static/css/main.3becedc6.css",
+    "main.js": "/admin-de-pacientes.git/static/js/main.7b12f219.js",
+    "index.html": "/admin-de-pacientes.git/index.html",
+    "main.3becedc6.css.map": "/admin-de-pacientes.git/static/css/main.3becedc6.css.map",
+    "main.7b12f219.js.map": "/admin-de-pacientes.git/static/js/main.7b12f219.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3becedc6.css",
+    "static/js/main.7b12f219.js"
+  ]
+}
